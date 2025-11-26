@@ -1,0 +1,22 @@
+# Datasets y videos pesados
+frames/
+data_split/
+RWF-2000/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Modelos pesados
+*.pth
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de salida de VS Code
+.vscode/
